@@ -3,7 +3,7 @@ Reads savegame data from FarmingSim 2019 and store in InfluxDB.
 
 ## Disclaimer
 It is probably full of problems and not intended to be used for any thing other than fun. 
-It took all of maybe 2 hours to but together, and is full of terrible brute force ways of doing thing.
+It took all of maybe 2 hours to put together, and is full of terrible brute force ways of doing thing.
 
 ## How to use?
 Just run the program. The first time it will exit almost immediately. This is because it makes a sample config.xml file
